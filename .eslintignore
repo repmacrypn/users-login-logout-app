@@ -1,0 +1,11 @@
+*.css
+*.scss
+*.json
+dist
+build
+public
+node_modules
+eslintrc.json
+config
+webpack.config.ts
+.prettierignore
